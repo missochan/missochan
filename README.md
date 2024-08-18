@@ -10,7 +10,8 @@
   👩🏻 I come from a non-tech background but embarked on a journey <br/>into technology following the COVID-19 pandemic. 
 <br/><br/>
   
-  📊 I'm a self-driven learner proficient in Python, SQL, and Tableau for data analytics, <br/>specializing in generating data-driven insights.
+  📊 I'm a self-driven learner proficient in Python, SQL, and Tableau for data analytics, <br/>specializing in generating data-driven insights.<br/>
+  🧠 Interested in AI, with a recent certification in machine learning and deep learning.
 <br/>
 
   💻 I'm also keen on web development with HTML, CSS, JavaScript, <br/>
@@ -39,7 +40,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,git,github,sklearn,tensorflow"/>
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,xd,visualstudio" />
 </div>
 
